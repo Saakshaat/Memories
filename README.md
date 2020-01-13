@@ -1,5 +1,5 @@
 # Memories
-A shared space for memories
+A social media platform for creating a shared space for memories.
 
 
 # Backend
